@@ -93,7 +93,7 @@ let items = [
         name: "Camisa esa misma",
         photo: "img/imagenMujer8.jpg",
         price: 15.99,
-      },
+      },  
   ];
   
   function getItem(req, res) {
